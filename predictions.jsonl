@@ -1,0 +1,23 @@
+{"id": "raw_form", "label": "raw_form", "input_kind_pred": "text", "confidence": 0.95, "evidence": ["No options detected", "Very high LR confidence (>=0.95)"]}
+{"id": "raw_form", "label": "raw_form", "input_kind_pred": "text", "confidence": 0.95, "evidence": ["No options detected", "Very high LR confidence (>=0.95)"]}
+{"id": "raw_form", "label": "raw_form", "input_kind_pred": "text", "confidence": 0.96, "evidence": ["No options detected", "Very high LR confidence (>=0.95)"]}
+{"id": "raw_form", "label": "raw_form", "input_kind_pred": "select", "confidence": 0.88, "evidence": ["Options detected (2)", "High LR confidence (>=0.85)"]}
+{"id": "raw_form", "label": "raw_form", "input_kind_pred": "text", "confidence": 0.96, "evidence": ["No options detected", "Very high LR confidence (>=0.95)"]}
+{"id": "raw_form", "label": "raw_form", "input_kind_pred": "text", "confidence": 0.95, "evidence": ["No options detected", "High LR confidence (>=0.85)"]}
+{"id": "raw_form", "label": "raw_form", "input_kind_pred": "text", "confidence": 0.96, "evidence": ["No options detected", "Very high LR confidence (>=0.95)"]}
+{"id": "raw_form", "label": "raw_form", "input_kind_pred": "text", "confidence": 0.96, "evidence": ["No options detected", "Very high LR confidence (>=0.95)"]}
+{"id": "raw_form", "label": "raw_form", "input_kind_pred": "text", "confidence": 0.96, "evidence": ["No options detected", "Very high LR confidence (>=0.95)"]}
+{"id": "raw_form", "label": "raw_form", "input_kind_pred": "text", "confidence": 0.94, "evidence": ["No options detected", "High LR confidence (>=0.85)"]}
+{"id": "raw_form", "label": "raw_form", "input_kind_pred": "text", "confidence": 0.74, "evidence": ["No options detected", "Yes/no question pattern", "LR confidence: 0.74"]}
+{"id": "raw_form", "label": "raw_form", "input_kind_pred": "text", "confidence": 0.81, "evidence": ["No options detected", "Yes/no question pattern", "LR confidence: 0.81"]}
+{"id": "raw_form", "label": "raw_form", "input_kind_pred": "text", "confidence": 0.77, "evidence": ["No options detected", "Yes/no question pattern", "LR confidence: 0.77"]}
+{"id": "raw_form", "label": "raw_form", "input_kind_pred": "text", "confidence": 0.93, "evidence": ["No options detected", "High LR confidence (>=0.85)"]}
+{"id": "raw_form", "label": "raw_form", "input_kind_pred": "text", "confidence": 0.92, "evidence": ["No options detected", "High LR confidence (>=0.85)"]}
+{"id": "raw_form", "label": "raw_form", "input_kind_pred": "select", "confidence": 0.93, "evidence": ["Options detected (2)", "High LR confidence (>=0.85)"]}
+{"id": "raw_form", "label": "raw_form", "input_kind_pred": "select", "confidence": 0.98, "evidence": ["Options detected (2)", "Yes/no question pattern", "Very high LR confidence (>=0.95)"]}
+{"id": "raw_form", "label": "raw_form", "input_kind_pred": "text", "confidence": 0.91, "evidence": ["No options detected", "High LR confidence (>=0.85)"]}
+{"id": "raw_form", "label": "raw_form", "input_kind_pred": "text", "confidence": 0.92, "evidence": ["No options detected", "High LR confidence (>=0.85)"]}
+{"id": "raw_form", "label": "raw_form", "input_kind_pred": "select", "confidence": 0.97, "evidence": ["Options detected (2)", "Yes/no question pattern", "Very high LR confidence (>=0.95)"]}
+{"id": "raw_form", "label": "raw_form", "input_kind_pred": "select", "confidence": 0.94, "evidence": ["Options detected (2)", "High LR confidence (>=0.85)"]}
+{"id": "raw_form", "label": "raw_form", "input_kind_pred": "text", "confidence": 0.96, "evidence": ["No options detected", "Very high LR confidence (>=0.95)"]}
+{"id": "raw_form", "label": "raw_form", "input_kind_pred": "select", "confidence": 0.9, "evidence": ["Options detected (2)", "High LR confidence (>=0.85)"]}

@@ -1,0 +1,23 @@
+[
+  {
+    "case_number": 1,
+    "field_id": "raw_form",
+    "phase3_prediction": "text",
+    "phase3_confidence": 0.7423800051805497,
+    "prompt": "You are a form field type classifier. Your task is to classify form fields as either \"text\" or \"select\".\n\n## Few-Shot Examples (Ground Truth):\n\n## Field to Classify:\n\nID: raw_form\nDOM: tag:input, type:text, opts:0, yes_no:1, required:1\nCurrent ML Prediction: text (confidence: 0.74)\n\n## Your Task:\n\nBased on the DOM snapshot and the few-shot examples above, classify this field.\n\nRespond ONLY with valid JSON, no additional text:\n\n{\n  \"id\": \"raw_form\",\n  \"input_kind\": \"text or select\",\n  \"rationale\": \"1-2 sentence explanation\"\n}\n"
+  },
+  {
+    "case_number": 2,
+    "field_id": "raw_form",
+    "phase3_prediction": "text",
+    "phase3_confidence": 0.811420586046067,
+    "prompt": "You are a form field type classifier. Your task is to classify form fields as either \"text\" or \"select\".\n\n## Few-Shot Examples (Ground Truth):\n\n## Field to Classify:\n\nID: raw_form\nDOM: tag:input, type:text, opts:0, yes_no:1, required:1\nCurrent ML Prediction: text (confidence: 0.81)\n\n## Your Task:\n\nBased on the DOM snapshot and the few-shot examples above, classify this field.\n\nRespond ONLY with valid JSON, no additional text:\n\n{\n  \"id\": \"raw_form\",\n  \"input_kind\": \"text or select\",\n  \"rationale\": \"1-2 sentence explanation\"\n}\n"
+  },
+  {
+    "case_number": 3,
+    "field_id": "raw_form",
+    "phase3_prediction": "text",
+    "phase3_confidence": 0.7730148801128914,
+    "prompt": "You are a form field type classifier. Your task is to classify form fields as either \"text\" or \"select\".\n\n## Few-Shot Examples (Ground Truth):\n\n## Field to Classify:\n\nID: raw_form\nDOM: tag:input, type:text, opts:0, yes_no:1, required:1\nCurrent ML Prediction: text (confidence: 0.77)\n\n## Your Task:\n\nBased on the DOM snapshot and the few-shot examples above, classify this field.\n\nRespond ONLY with valid JSON, no additional text:\n\n{\n  \"id\": \"raw_form\",\n  \"input_kind\": \"text or select\",\n  \"rationale\": \"1-2 sentence explanation\"\n}\n"
+  }
+]
